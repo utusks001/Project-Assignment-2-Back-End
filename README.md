@@ -1,6 +1,6 @@
 # Project-Assignment-2-Back-End (Intermediate)
 
-###  To Do App dengan Service Repository Pattern untuk Logika Aplikasi di Controller, Operasi Database dan Request Metode API
+###  To Do App dengan Service Repository Pattern untuk Logika Aplikasi di TaskController, Operasi Database dan Request Metode API
 
 • Pada service dengan nama TaskService.php buatkan method untuk
 menangani logika aplikasi pada enam method yang telah dibuat di TaskController
